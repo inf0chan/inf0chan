@@ -1,23 +1,112 @@
 
-# **Hola Amigo 👋, I'm Himanshu Bisht**
-<br>
-🎓BCA Student | 🕹Graphic Designer | 🚀AI Enthusiast.<br><br>Passionate about building smart digital solutions with a strong focus on web development and AI integration.  <br>Exploring **full-stack development, backend systems, and AI-powered applications** to create modern and impactful projects.  <br>Driven by curiosity for **artificial intelligence, automation, and problem-solving through code**.  <br><br>
+<div align="center">
 
+# Hola, I'm **Himanshu Bisht**
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Graphic+Designer;BCA+Student;AI+Enthusiast;Creative+Developer;Learning+Something+New+Every+Day" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212750241-6a3ef5f1-8d1d-4f9d-9b95-4d55f54d68c.gif" width="700">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+</div>
+
+---
+
+#  About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 BCA Student
+
+🎨 Graphic Designer
+
+🤖 AI Enthusiast
+
+🌱 Learning Full Stack Development
+
+💡 I enjoy designing beautiful interfaces and building AI-powered projects.
+
+⚡ "Create. Learn. Build. Repeat."
+
+<br><br>
+
+---
+<div align="center">
+  
+#  Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,figma,photoshop,illustrator,blender"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=inf0chan&theme=neon&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=inf0chan&theme=neon&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=inf0chan&theme=neon&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=inf0chan&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
 
-### ✍️ Random Dev Quote
+---
+
+#  Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=inf0chan&theme=tokyo-night&hide_border=true"/>
+
+</p>
+</div>
+
+<div align="center">
+  
+#  Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/inf0chan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/himanshubisht112">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:inf0chans11@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+</div>
+
+<div align="center">
+
+###  Visitors
+
+<img src="https://komarev.com/ghpvc/?username=inf0chan&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+##  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Infochans11) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inf0chan___) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infochans11@gmail.com) 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<div align="center">
+
+## 💫 Thanks for Visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+
+</div>
